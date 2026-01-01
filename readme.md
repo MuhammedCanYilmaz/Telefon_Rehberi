@@ -25,7 +25,7 @@ Program çalıştırıldığında kullanıcıyı aşağıdaki gibi basit bir ara
 
 =========================
  TELEFON REHBERI MENUSU
-=========================
+
 1. Kisi Ekle
 2. Rehberi Listele
 3. Isimden Numara Bul
